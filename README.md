@@ -22,7 +22,7 @@ I am currently seeking opportunities to begin my professional journey as a **Dat
 - Microsoft Excel
 - Data Visualization
 - Tableau
-- HTML & CSS
+- Frontend Development
 
 ---
 
