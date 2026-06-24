@@ -12,7 +12,7 @@ My projects focus on analyzing real-world datasets, building interactive dashboa
 
 I am currently seeking opportunities to begin my professional journey as a **Data Analyst**, where I can continue learning, contribute to impactful projects, and grow alongside experienced professionals in the field.
 
-📄 **Resume:** [Pratham Singh Resume](./Pratham_Singh_Resume.pdf)
+📄 **Resume:** [Pratham Singh Resume](CV.pdf)
 
 ---
 
