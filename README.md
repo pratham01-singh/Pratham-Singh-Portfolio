@@ -1,5 +1,3 @@
-# Pratham-Singh-Portfolio
-Data Analytics Portfolio showcasing projects, dashboards, and insights using Power BI, Python, SQL, and Excel.
 # Pratham Singh - Data Analyst Portfolio
 
 ## About
@@ -23,6 +21,7 @@ I am currently seeking opportunities to begin my professional journey as a **Dat
 - SQL
 - Microsoft Excel
 - Data Visualization
+- Tableau
 - HTML & CSS
 
 ---
@@ -31,12 +30,25 @@ I am currently seeking opportunities to begin my professional journey as a **Dat
 
 - Power BI Certificate
 - Python Programming (Coursera)
-- AI-Powered Data Analytics Course
+- Ultimate Job-Ready AI-Powered Data Analytics Course
+
+---
+
+## Projects
+
+- Employee Attrition Dashboard (HR Analytics)
+- Sales & Revenue Insights Dashboard
+- City Microclimate & Traffic Impact Analysis
+- Supply Chain Disruption Early Warning Analytics
 
 ---
 
 ## Contact
 
-📧 **pratham10101@gmail.com**
+- 📧 **Email:** pratham10101@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/pratham10101](https://www.linkedin.com/in/pratham10101)
+- 📍 **Location:** Aligarh, Uttar Pradesh, India
 
-📍 **Aligarh, Uttar Pradesh, India**
+---
+
+⭐ Feel free to explore my repositories and connect with me. I'm always open to learning, collaboration, and new opportunities in Data Analytics.
